@@ -10,7 +10,7 @@
       <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
-      <img src="/zhuye.jpg" width="100%">
+      <img src="/zhuye.jpg" width="50%">
     </td>
   </tr>
 </table>
